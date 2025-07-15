@@ -1,0 +1,15 @@
+C:\Users\saura\OneDrive\Desktop\C-Sharp\bin\Debug\net9.0\C-Sharp.exe
+C:\Users\saura\OneDrive\Desktop\C-Sharp\bin\Debug\net9.0\C-Sharp.deps.json
+C:\Users\saura\OneDrive\Desktop\C-Sharp\bin\Debug\net9.0\C-Sharp.runtimeconfig.json
+C:\Users\saura\OneDrive\Desktop\C-Sharp\bin\Debug\net9.0\C-Sharp.dll
+C:\Users\saura\OneDrive\Desktop\C-Sharp\bin\Debug\net9.0\C-Sharp.pdb
+C:\Users\saura\OneDrive\Desktop\C-Sharp\obj\Debug\net9.0\C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saura\OneDrive\Desktop\C-Sharp\obj\Debug\net9.0\C-Sharp.AssemblyInfoInputs.cache
+C:\Users\saura\OneDrive\Desktop\C-Sharp\obj\Debug\net9.0\C-Sharp.AssemblyInfo.cs
+C:\Users\saura\OneDrive\Desktop\C-Sharp\obj\Debug\net9.0\C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\saura\OneDrive\Desktop\C-Sharp\obj\Debug\net9.0\C-Sharp.sourcelink.json
+C:\Users\saura\OneDrive\Desktop\C-Sharp\obj\Debug\net9.0\C-Sharp.dll
+C:\Users\saura\OneDrive\Desktop\C-Sharp\obj\Debug\net9.0\refint\C-Sharp.dll
+C:\Users\saura\OneDrive\Desktop\C-Sharp\obj\Debug\net9.0\C-Sharp.pdb
+C:\Users\saura\OneDrive\Desktop\C-Sharp\obj\Debug\net9.0\C-Sharp.genruntimeconfig.cache
+C:\Users\saura\OneDrive\Desktop\C-Sharp\obj\Debug\net9.0\ref\C-Sharp.dll
